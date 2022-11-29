@@ -12,23 +12,16 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+ 
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 
@@ -36,14 +29,6 @@
 
 "Hello microrvese" is an application project for creating "hello world" giving it a color with css and apply lenter to check for errors. in this project we applied git and github command and methods. 
 
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,7 +58,6 @@ https://github.com/hakichris/Hello-Microverse.git
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -97,11 +81,6 @@ if you like this project, Kindly follow the author on Github for more projects. 
 > Give credit to everyone who inspired your codebase.
 
 I would like to thank microverse team
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
